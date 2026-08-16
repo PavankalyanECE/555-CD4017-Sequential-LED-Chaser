@@ -16,7 +16,7 @@ The following video demonstrates the working hardware prototype and sequential L
 
 ## 📸 Project Preview
 
-![Final Prototype](Hardware-&-Images/Hardware-Images/IMG20260816122704.jpg)
+![Final Prototype](Hardware-&-Images/Hardware-Images/IMG20260816122621.jpg)
 
 ---
 
