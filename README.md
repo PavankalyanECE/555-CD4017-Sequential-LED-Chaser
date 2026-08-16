@@ -185,15 +185,15 @@ After completing the circuit simulation and PCB design, the circuit was implemen
 
 ### Front View
 
-![Prototype Front](Hardware-&-Images/Software-Images/PCB_3D_View_2.png)
+![Prototype Front](Hardware-&-Images/Hardware-Images/IMG20260816123253.jpg)
 
-### Back View
+### Top View
 
-![Prototype Top](Hardware-&-Images/Hardware-Images/IMG20260816123253.jpg)
+![Prototype Top](Hardware-&-Images/Hardware-Images/IMG20260816123342.jpg)
 
-### Working Prototype
+### Prototype
 
-![Working Prototype](Hardware-&-Images/Hardware-Images/IMG20260816123342.jpg)
+![Working Prototype](Hardware-&-Images/Hardware-Images/IMG20260816122704.jpg)
 
 The physical prototype was tested to verify the sequential LED operation.
 
