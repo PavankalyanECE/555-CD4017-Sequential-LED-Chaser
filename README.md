@@ -137,7 +137,7 @@ Before building the physical prototype, the circuit was simulated in **Proteus**
 
 ### Proteus Schematic
 
-![Proteus Simulation](Images/Proteus_Simulation.png)
+![Proteus Simulation](Hardware-&-Images/Software-Images/Proteus-Simulation.png)
 
 The simulation verifies:
 
