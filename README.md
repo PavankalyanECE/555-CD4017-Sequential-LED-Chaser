@@ -16,7 +16,7 @@ The following video demonstrates the working hardware prototype and sequential L
 
 ## 📸 Project Preview
 
-![Final Prototype](Images/Final_Prototype.png)
+![Final Prototype](Hardware-&-Images/Hardware-Images/IMG20260816122704.jpg)
 
 ---
 
@@ -185,15 +185,15 @@ After completing the circuit simulation and PCB design, the circuit was implemen
 
 ### Front View
 
-![Prototype Front](Hardware/Prototype_Front.jpg)
+![Prototype Front](Hardware-&-Images/Software-Images/PCB_3D_View_2.png)
 
 ### Back View
 
-![Prototype Back](Hardware/Prototype_Back.jpg)
+![Prototype Top](Hardware-&-Images/Hardware-Images/IMG20260816123253.jpg)
 
 ### Working Prototype
 
-![Working Prototype](Hardware/Working_Prototype.jpg)
+![Working Prototype](Hardware-&-Images/Hardware-Images/IMG20260816123342.jpg)
 
 The physical prototype was tested to verify the sequential LED operation.
 
