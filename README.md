@@ -161,11 +161,11 @@ The circuit was converted into a PCB design using **EasyEDA**.
 
 ### PCB Layout
 
-![EasyEDA PCB](Images/EasyEDA_PCB.png)
+![EasyEDA PCB](Hardware-&-Images/Software-Images/PCB_Routing_Image.png)
 
 ### PCB 3D View
 
-![PCB 3D View](Images/PCB_3D_View.png)
+![PCB 3D View](Hardware-&-Images/Software-Images/PCB_3D_View_2.png)
 
 The EasyEDA folder contains the schematic, PCB design, and Gerber manufacturing files.
 
