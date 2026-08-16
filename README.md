@@ -10,7 +10,7 @@ The project was **designed and simulated in Proteus, designed as a PCB using Eas
 
 The following video demonstrates the working hardware prototype and sequential LED operation.
 
-**[▶️ Watch the Demo Video](YOUR-DEMO-VIDEO-LINK)**
+**[▶️ Watch the Demo Video]([YOUR-DEMO-VIDEO-LINK](https://lnkd.in/p/gbfrYc-7))**
 
 ---
 
@@ -293,9 +293,9 @@ Through this project, I gained practical experience in:
 
 Electronics & Communication Engineering
 
-GitHub: **[Your GitHub Profile](YOUR-GITHUB-PROFILE-LINK)**
+GitHub: **[Your GitHub Profile](https://github.com/PavankalyanECE/)**
 
-LinkedIn: **[Your LinkedIn Profile](YOUR-LINKEDIN-LINK)**
+LinkedIn: **[Your LinkedIn Profile]([YOUR-LINKEDIN-LINK](https://www.linkedin.com/in/pavan-kalyan-imandi/))**
 
 ---
 
