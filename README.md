@@ -288,7 +288,7 @@ Through this project, I gained practical experience in:
 
 ## 👨‍💻 Author
 
-**Lakshmi Pavan Kalyan Imandi**
+**Imandi Lakshmi Pavan Kalyan Imandi**
 
 Electronics & Communication Engineering
 
